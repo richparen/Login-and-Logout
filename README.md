@@ -5,3 +5,7 @@
 3) Hidden Form Field 
 4) URL Rewriting 
 5) HttpSession
+
+
+Language: Java and resource: jsp files
+General pages: Login and Registration page.
